@@ -26,3 +26,5 @@ exclude:
   - "Gemfile.lock"
   - "gulpconfig.yml"
   - "/docs/"
+  - "yarn.lock"
+  - "package-lock.json"
