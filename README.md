@@ -11,7 +11,7 @@ Jekyll + Gulp + Sass + Yarn + BrowserSync + ...
 * Gulp - `$ npm install --global gulp-cli` - mac users may need sudo
 
 ##  Installation
-	$ git clone https://github.com/wdzajicek/kcc-template-fastpath.git
+	$ git clone https://github.com/KankakeeCommunityCollege/kcc-template-fastpath.git
 	$ cd kcc-template-fastpath
 	$ npm install  // mac users will need sudo if not using nvm
 	$ bundle install
