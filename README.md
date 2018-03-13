@@ -1,4 +1,4 @@
-# KCC Fast Paths
+# KCC Fast Path
 
 ## Landing Page for the KCC Fast Path Program
 
