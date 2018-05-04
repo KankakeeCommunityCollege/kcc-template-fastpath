@@ -505,3 +505,17 @@ a.nowrap {
   position: absolute;
   text-indent: -9999em;
 }
+
+.button-text {
+  font-size: 1.6rem !important;
+}
+
+.line-spacing {
+  line-height: 4.4rem;
+}
+
+@media screen and (min-width: 768px) {
+  .push-right {
+    margin-left: 20px;
+  }
+}
